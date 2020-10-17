@@ -1,5 +1,4 @@
-# dinosaur-name-generation-rnn
+# Dinosaur name generator - RNN
 
-# Dinosaur name generator using numpy
-
-## Contains Implementation of novel Recurrent Neural Network using numpy. Contains both forward pass as well as backward pass.
+## Contains Implementation of novel Recurrent Neural Network(RNN) using numpy
+It contains both the forward pass as well as the backward pass made in numpy. 
